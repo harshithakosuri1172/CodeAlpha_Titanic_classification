@@ -9,5 +9,5 @@ Evaluated each model's performance using accuracy, confusion matrix, and classif
 **Accuracy achieved through models:**
 Logistic Regression: 78%.
 Random Forest: 79%.
-Gradient Boosting Classifier: 81%(better performnace).
+Gradient Boosting Classifier: 81%(better performance).
 The Gradient Boosting Classifier outperformed both Logistic Regression and Random Forest in terms of accuracy.
