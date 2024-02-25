@@ -1,4 +1,4 @@
-# CodeAlpha_Titanic_classification
+# Titanic_classification
 This Titanic classification project aims to predict survival based on various attributes of passengers aboard the Titanic. 
 Attributes: Gender, Passenger Class (Pclass), Embarkation Point (Embarked), Survival Status
 
